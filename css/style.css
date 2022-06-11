@@ -1,4 +1,5 @@
 body {
     background: url('../img/fon3.jpg') no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
